@@ -1,5 +1,5 @@
 # Unity APIBuilder Documentation
-
+Tags: `Unity API requests`, `UnityWebRequest wrapper`, `HTTP request builder for Unity`
 ## Overview
 The `APIBuilder` class is a fluent-style API request builder for Unity, using `UnityWebRequest` to handle HTTP requests. It allows developers to create, configure, and send requests in an organized and structured manner.
 
